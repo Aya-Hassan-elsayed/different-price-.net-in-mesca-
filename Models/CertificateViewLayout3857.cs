@@ -1,0 +1,100 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace Zezoprice.Models
+{
+    public partial class CertificateViewLayout3857
+    {
+        public int Id0 { get; set; }
+        public int? Id { get; set; }
+        public string? Requestnumber { get; set; }
+        public int? CompanyId { get; set; }
+        public int? SurveyTeamId { get; set; }
+        public string? Gov { get; set; }
+        public string? Sec { get; set; }
+        public string? Ssec { get; set; }
+        public string? Streetname { get; set; }
+        public string? PropertyN { get; set; }
+        public DateOnly? Addeddate { get; set; }
+        public DateOnly? DueDate { get; set; }
+        public string? Unittype { get; set; }
+        public string? FloorNumb { get; set; }
+        public string? FloorNT { get; set; }
+        public string? ApartNum { get; set; }
+        public string? Surveynum { get; set; }
+        public string? Name { get; set; }
+        public string? Phone { get; set; }
+        public string? NorthB { get; set; }
+        public string? SouthB { get; set; }
+        public string? EastB { get; set; }
+        public string? WestB { get; set; }
+        public double? NorthL { get; set; }
+        public double? SouthL { get; set; }
+        public double? EastL { get; set; }
+        public double? WestL { get; set; }
+        public double? AreaLand { get; set; }
+        public double? AreaBuild { get; set; }
+        public double? Garden { get; set; }
+        public double? Manwr { get; set; }
+        public double? Sealmm { get; set; }
+        public double? Sealm { get; set; }
+        public string? Ket3a { get; set; }
+        public string? Hod { get; set; }
+        public string? Usage { get; set; }
+        public string? Descrip { get; set; }
+        public double? NorthL1 { get; set; }
+        public double? SouthL1 { get; set; }
+        public double? EastL1 { get; set; }
+        public double? WestL1 { get; set; }
+        public double? AreaAp1 { get; set; }
+        public double? NorthL2 { get; set; }
+        public double? SouthL2 { get; set; }
+        public double? EastL2 { get; set; }
+        public double? WestL2 { get; set; }
+        public double? AreaAp2 { get; set; }
+        public double? NorthL3 { get; set; }
+        public double? SouthL3 { get; set; }
+        public double? EastL3 { get; set; }
+        public double? WestL3 { get; set; }
+        public double? AreaAp3 { get; set; }
+        public double? NorthL4 { get; set; }
+        public double? SouthL4 { get; set; }
+        public double? EastL4 { get; set; }
+        public double? WestL4 { get; set; }
+        public double? AreaAp4 { get; set; }
+        public double? NorthL5 { get; set; }
+        public double? SouthL5 { get; set; }
+        public double? EastL5 { get; set; }
+        public double? WestL5 { get; set; }
+        public double? AreaAp5 { get; set; }
+        public double? NorthL6 { get; set; }
+        public double? SouthL6 { get; set; }
+        public double? EastL6 { get; set; }
+        public double? WestL6 { get; set; }
+        public double? AreaAp6 { get; set; }
+        public string? X { get; set; }
+        public string? Y { get; set; }
+        public double? Totalarea { get; set; }
+        public double? Totalaparts { get; set; }
+        public string? Serag { get; set; }
+        public long? ShaqaaSeragCount { get; set; }
+        public long? SeragidCount { get; set; }
+        public string? Seragid { get; set; }
+        public string? SeragShaqaa { get; set; }
+        public string? Overlap { get; set; }
+        public string? Ncpslu { get; set; }
+        public string? Printdate { get; set; }
+        public string? Receiptimagepath { get; set; }
+        public double? NorthLg { get; set; }
+        public double? SouthLg { get; set; }
+        public double? EastLg { get; set; }
+        public double? WestLg { get; set; }
+        public double? AreaG { get; set; }
+        public string? Print { get; set; }
+        public int? Tawheed { get; set; }
+        public string? SsecNow { get; set; }
+        public string? SecNow { get; set; }
+        public string? GovNo { get; set; }
+        public string? Letter { get; set; }
+    }
+}
